@@ -1,7 +1,9 @@
 #include <stdio.h>
+typedef char douglas;
+
 int main()
 {
-    char texto[80];
+    douglas texto[80];
     int n;
     scanf("%d\n", &n);
 
