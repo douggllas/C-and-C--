@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#define TAM_MAX 100
+#define TAM_MAX 10
 
 int main()
 {
