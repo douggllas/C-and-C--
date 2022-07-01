@@ -27,11 +27,16 @@ int empilha (Pilha *P, int x){
 
 
 int main (){
+
+    Ponteiro *P;
+
+
     int X;
     int aux=0, aux2=0;
     scanf("%d",&X);
     if(X%=2==0){
        aux++;
+       aux=*P->[P->topo];
     }else aux2++;
     printf("%d", aux);
     printf("%d", aux2);
