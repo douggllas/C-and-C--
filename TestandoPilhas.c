@@ -40,7 +40,8 @@ int vazia(Pilha *P)
 
 int cheia(Pilha *P)
 {
-    P->topo if topo = vet[TAM_MAX - 1] return 0;
+    P->topo;
+    if (topo= vet[TAM_MAX - 1])    return 0;
 }
 
 void empilha(Pilha *P, int valor)
