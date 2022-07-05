@@ -11,6 +11,7 @@ struct coordenada
 
 typedef struct coordenada Coordenada;
 
+
 struct pilha
 {
     Coordenada C[TAM_MAX];
