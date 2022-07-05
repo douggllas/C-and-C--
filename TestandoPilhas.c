@@ -16,8 +16,8 @@ Pilha *criar(void)
     int vet;
     Pilha *P;
     P = (Pilha *)malloc(sizeof(Pilha));
-    P->vet[TAM_MAX] malloc(topo * sizeof(int));
-    ;
+    P->vet[TAM_MAX] malloc(*topo sizeof(int));
+    
     if (P != NULL)
     {
         P->topo = -1;

@@ -37,6 +37,7 @@ void imprimir(Lista *lista)
     printf("\n\n");
 }
 
+
 int main()
 {
     Lista lista;
